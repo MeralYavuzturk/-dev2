@@ -12,5 +12,13 @@
 ## ⚒️ Teknik Bilgiler
 * Kullanılan Dil: c#
 * IDE: Microsoft Visual Studio
-* 
+* Kullanılan Sürüm: .NET8.0
+## 🔒Gizlilik ve Lisans
+* Bu yazılım sadece akademik eğitim amaçlı tasarlanmış olup hiç bir şekilde izinsiz, ticari veya kötü niyetli kullanımı lisans kapsamında değildir ve yasal sorumluluk doğurur.
+* .env dosyası kullanımı
+* Projede e-posta gönderimi için test amacıyla bir gmail hesabı kullanılmıştır.
+* Bu hesapla ilgili bilgiler .env dosyasında saklanır ve github deposuna dahil edilmemiştir.
+# .env: gmail şifresini içerir .gitignore dosyasında gizlenmiştir.
+## ✨Geliştirici
+* Meral Yavuztürk
 
