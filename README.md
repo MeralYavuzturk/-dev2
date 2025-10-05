@@ -18,7 +18,7 @@
 * .env dosyası kullanımı
 * Projede e-posta gönderimi için test amacıyla bir gmail hesabı kullanılmıştır.
 * Bu hesapla ilgili bilgiler .env dosyasında saklanır ve github deposuna dahil edilmemiştir.
-# .env: gmail şifresini içerir .gitignore dosyasında gizlenmiştir.
+## .env: gmail şifresini içerir .gitignore dosyasında gizlenmiştir.
 ## ✨Geliştirici
 * Meral Yavuztürk
 
