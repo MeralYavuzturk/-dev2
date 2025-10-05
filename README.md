@@ -7,6 +7,6 @@
 * Uygulama hiçbir koşulda izinsiz veya kötü niyetli olarak kullanılmamıştır.
 * Veri çalma, şifre toplama, yetkisiz erişim sağlama veya herhangi bir yasa dışı faaliyette bulunma amacı güdülerek kullanılması **kesinlikle yasaktır**.
 * Test **arkadaşımın açık rızası ile kendi bilgisayarında** gerçekleştirilmiştir.
-**Önemli Not**
+# **Önemli Not**
 * Proje geliştiricileri (öğrenci ve hoca), bu eğitim amaçlı yazılımın etik ilkelere, yasalara veya belirlenen kurallara aykırı olarak kötüye kullanılması durumunda ortaya çıkacak eylemlerden veya sonuçlardan  sorumlu tutulamazlar. 
 
