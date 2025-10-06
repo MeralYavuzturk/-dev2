@@ -1,7 +1,8 @@
 # EĞİTİM AMAÇLI KEYLOGGER PROJESİ
 ### Bu proje hocanın ders amaçlı isteği üzerine tamamen **eğitim ve akademik** amaçlı yapılmış bir yazılımdır.
 ### Test arkadaşımın açık rızası ile kendi bilgisayarında gerçekleştirilmiş ve videoya alınmıştır.
-* Video Linki:
+* Bu video **Nesne Tabanlı Proglama** dersi kapsamında tamamen eğitim amaçlı geliştrilen bir keylogger yazılımını göstermektedir.
+* Video Linki:https://youtu.be/uh5tdef0540
 ## Projenin amacı🎯
 #### Bu keylogger projesi, öğrencilerin siber güvenlik alanındaki temel prensipleri, işletim sistemi etkileşimlerini, olay dinleme (event handling) ve veri yakalama mekanizmalarını **anlamaları ve öğrenmeleri** için bir araç olarak tasarlanmıştır. Proje, gerçek dünyadaki siber tehditlerin nasıl çalıştığına dair teorik bilgileri pratik bir uygulama ile pekiştirmeyi amaçlamaktadır.
 ## 📣 ETİK KURALLAR VE YASAL UYARI
